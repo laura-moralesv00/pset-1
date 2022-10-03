@@ -73,3 +73,5 @@ grafica_3 <- ingresos_laborales <- cg_ocu %>%
   geom_bar(stat = "identity") 
 grafica_3
 
+## código para gráficas fue sacado de algunos lectures de clase.
+
