@@ -1,4 +1,4 @@
-##### Laura Morales Vernaza - 201821520 PROBLEM SET 1 #####
+##### Laura Morales Vernaza - 201821520 PROBLEM SET 1 - R version 4.2.1 (2022-06-23 ucrt)#####
 
 ## instalar/llamar pacman
 require(pacman)
